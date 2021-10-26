@@ -1,0 +1,27 @@
+html {
+  background-color: rgb(37, 37, 37);
+}
+p,
+h1,
+h2,
+span,
+#answerDiv {
+  color: white;
+}
+body {
+  margin: 0;
+  font-family: arial, sans-serif;
+}
+main {
+  padding: 20px;
+  text-align: center;
+}
+.wrong {
+  color: red;
+}
+.correct {
+  color: green;
+}
+#answerDiv {
+  margin-top: 2rem;
+}

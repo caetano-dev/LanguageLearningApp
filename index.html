@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Deutsch Lernen</title>
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon" />
+
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("./service-worker.js");
+      }
+    </script>
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="PWA Example" />
+    <link rel="apple-touch-icon" href="icon-152x152.png" />
+    <meta name="msapplication-TileImage" content="icon-144x144.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+  </head>
+  <body>
+    <main>
+      <div class="welcome">
+        <h1>Deutsch Lernen</h1>
+        <h2>Übersetzen Sie die folgenden Sätze</h2>
+      </div>
+      <div>
+        <div><span id="textSpan">text goes here</span></div>
+        <input id="input" type="text" placeholder="Übersetzen" />
+        <button id="button">Senden</button>
+      </div>
+      <div id="answerDiv"></div>
+    </main>
+  </body>
+
+  <script type="application/javascript" src="./index.js"></script>
+</html>
