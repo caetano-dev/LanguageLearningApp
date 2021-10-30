@@ -8,6 +8,10 @@ span,
 #answerDiv {
   color: white;
 }
+
+#answerDiv {
+  margin-top: 2rem;
+}
 body {
   margin: 0;
   font-family: arial, sans-serif;
@@ -16,12 +20,12 @@ main {
   padding: 20px;
   text-align: center;
 }
+#input{
+  margin-top: 1rem;
+}
 .wrong {
   color: red;
 }
 .correct {
   color: green;
-}
-#answerDiv {
-  margin-top: 2rem;
 }
