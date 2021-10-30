@@ -25,10 +25,11 @@ const displayPhrase = () => {
 
 const checkAnswer = () => {
   const userInput = input.value;
-  const phraseToCheck = sentences.english.toLowerCase();
-  const userInputLowerCase = userInput.toLowerCase();
+  const phraseToCheck = sentences.english.toLowerCase()
+  const userInputLowerCase = userInput.toLowerCase()
 
-  if (userInputLowerCase === phraseToCheck) {
+  
+  if (userInputLowerCase.slice(0,-1) === phraseToCheck.slice(0,-1)) {
     textSpan.classList.add("correct");
     textSpan.innerText = "Correct!";
     answerDiv.innerText = "Move to the next one.";
