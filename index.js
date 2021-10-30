@@ -25,8 +25,10 @@ const displayPhrase = () => {
 
 const checkAnswer = () => {
   const userInput = input.value;
+  const phraseToCheck = sentences.english.toLowerCase();
+  const userInputLowerCase = userInput.toLowerCase();
 
-  if (userInput === sentences.english) {
+  if (userInputLowerCase === phraseToCheck) {
     textSpan.classList.add("correct");
     textSpan.innerText = "Correct!";
     answerDiv.innerText = "Move to the next one.";
@@ -40,8 +42,10 @@ const checkAnswer = () => {
     textSpan.classList.add("wrong");
     textSpan.innerText = "Wrong!";
     answerDiv.innerText = "Answer: " + sentences.english;
+    input.disabled = true;
 
     setTimeout(() => {
+      input.disabled = false;
       textSpan.classList.remove("wrong");
       input.value = "";
       answerDiv.innerText = "";
