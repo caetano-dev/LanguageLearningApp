@@ -1,15 +1,28 @@
 html {
-  background-color: rgb(37, 37, 37);
+  background-color: #120F0E
+}
+.welcome{
+  margin-bottom: 6rem; 
 }
 p,
 h1,
 h2,
 span,
 #answerDiv {
-  color: white;
+  color: #ffffff;
+}
+#textSpan{
+  font-size: 2rem;
 }
 #answerDiv {
   margin-top: 2rem;
+}
+button{
+  outline: none;
+  border: none;
+  height: 2rem;
+  font-size: 1rem;
+  border-radius: .2rem;
 }
 body {
   margin: 0;
@@ -19,8 +32,22 @@ main {
   padding: 20px;
   text-align: center;
 }
+.inputAndButtonsDiv{
+  display: flex;
+  flex-direction: column;
+}
 #input{
   margin-top: 1rem;
+  height: 2rem;
+  margin-bottom: 1rem;
+}
+#button{
+  width: 8rem;
+  background-color: #F2DB46;
+}
+#next{
+  width:5rem;
+  background-color: #FC1919;
 }
 .wrong {
   color: red;

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE tml>
 <html>
   <head>
     <meta charset="UTF-8" />
@@ -10,8 +10,8 @@
 
     <script>
       if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("./service-worker.js");
-      }
+              navigator.serviceWorker.register("./service-worker.js");
+            }
     </script>
 
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -29,9 +29,13 @@
       </div>
       <div>
         <div><span id="textSpan"></span></div>
-        <input id="input" type="text" placeholder="Übersetzen" />
-        <button id="button">Senden</button>
-        <button id="next">Nächster</button>
+        <div class="inputAndButtonsDiv">
+          <input id="input" type="text" placeholder="Übersetzen" /> 
+          <div>
+            <button id="button">Senden</button>
+            <button id="next">Nächster</button>
+          </div>
+        </div>
       </div>
       <div id="answerDiv"></div>
     </main>
