@@ -2,755 +2,755 @@
   "phrases": [
     {
       "english": "I think it's unlikely that any store would sell this model for that price.",
-      "german": "Ich denke, es ist unwahrscheinlich, dass irgendein Laden dieses Modell für diesen Preis verkaufen würde."
+      "targetLanguage": "Ich denke, es ist unwahrscheinlich, dass irgendein Laden dieses Modell für diesen Preis verkaufen würde."
     },
     {
       "english": "Does it snow a lot in the winter?",
-      "german": "Schneit es im Winter viel?"
+      "targetLanguage": "Schneit es im Winter viel?"
     },
     {
       "english": "Thanks for inviting me.",
-      "german": "Danke, dass du mich eingeladen hast."
+      "targetLanguage": "Danke, dass du mich eingeladen hast."
     },
     {
       "english": "This room is air-conditioned.",
-      "german": "Dieses Zimmer ist klimatisiert."
+      "targetLanguage": "Dieses Zimmer ist klimatisiert."
     },
     {
       "english": "Have you ever done any volunteer work?",
-      "german": "Hast du schon mal Freiwilligenarbeit geleistet?"
+      "targetLanguage": "Hast du schon mal Freiwilligenarbeit geleistet?"
     },
     {
       "english": "I've never played golf.",
-      "german": "Ich habe noch nie Golf gespielt."
+      "targetLanguage": "Ich habe noch nie Golf gespielt."
     },
     {
       "english": "At that time I liked to play checkers.",
-      "german": "Damals habe ich gerne Dame gespielt."
+      "targetLanguage": "Damals habe ich gerne Dame gespielt."
     },
     {
       "english": "You don't have to go unless you want to.",
-      "german": "Du musst nur gehen, wenn du willst."
+      "targetLanguage": "Du musst nur gehen, wenn du willst."
     },
     {
       "english": "What grade did you get on the test?",
-      "german": "Welche Klasse hast du bei der Prüfung bekommen?"
+      "targetLanguage": "Welche Klasse hast du bei der Prüfung bekommen?"
     },
     {
       "english": "She advised him to get more exercise.",
-      "german": "Sie riet ihm, mehr Bewegung zu bekommen."
+      "targetLanguage": "Sie riet ihm, mehr Bewegung zu bekommen."
     },
     {
       "english": "I still haven't decided.",
-      "german": "Ich habe mich noch nicht entschieden."
+      "targetLanguage": "Ich habe mich noch nicht entschieden."
     },
     {
       "english": "I stayed up all night.",
-      "german": "Ich blieb die ganze Nacht auf."
+      "targetLanguage": "Ich blieb die ganze Nacht auf."
     },
     {
       "english": "Excuse my clumsiness.",
-      "german": "Entschuldigen Sie meine Unbeholfenheit."
+      "targetLanguage": "Entschuldigen Sie meine Unbeholfenheit."
     },
     {
       "english": "Communications broke down.",
-      "german": "Die Kommunikation ist kaputt."
+      "targetLanguage": "Die Kommunikation ist kaputt."
     },
     {
       "english": "I managed to get to the station on time.",
-      "german": "Ich habe es geschafft, pünktlich zum Bahnhof zu kommen."
+      "targetLanguage": "Ich habe es geschafft, pünktlich zum Bahnhof zu kommen."
     },
     {
       "english": "Here's your receipt",
-      "german": "Hier ist Ihre Quittung."
+      "targetLanguage": "Hier ist Ihre Quittung."
     },
     {
       "english": "What do you like to do in your free time?",
-      "german": "Was machen Sie gerne in Ihrer Freizeit?"
+      "targetLanguage": "Was machen Sie gerne in Ihrer Freizeit?"
     },
     {
       "english": "He's right.",
-      "german": "Er hat recht."
+      "targetLanguage": "Er hat recht."
     },
     {
       "english": "He's very annoying.",
-      "german": "Er ist sehr nervig."
+      "targetLanguage": "Er ist sehr nervig."
     },
     {
       "english": "He's very famous.",
-      "german": "Er ist sehr berühmt."
+      "targetLanguage": "Er ist sehr berühmt."
     },
     {
       "english": "I ate already.",
-      "german": "Ich habe schon gegessen."
+      "targetLanguage": "Ich habe schon gegessen."
     },
     {
       "english": "I can't hear you.",
-      "german": "Ich kann dich nicht hören."
+      "targetLanguage": "Ich kann dich nicht hören."
     },
     {
       "english": "I'd like to go for a walk.",
-      "german": "Ich würde gerne spazieren gehen."
+      "targetLanguage": "Ich würde gerne spazieren gehen."
     },
     {
       "english": "I don't speak very well.",
-      "german": "Ich spreche nicht sehr gut."
+      "targetLanguage": "Ich spreche nicht sehr gut."
     },
     {
       "english": "I don't understand.",
-      "german": "Ich verstehe nicht."
+      "targetLanguage": "Ich verstehe nicht."
     },
     {
       "english": "I don't want it.",
-      "german": "Ich will es nicht."
+      "targetLanguage": "Ich will es nicht."
     },
     {
       "english": "If you need my help, please let me know.",
-      "german": "Wenn Sie meine Hilfe brauchen, lassen Sie es mich wissen."
+      "targetLanguage": "Wenn Sie meine Hilfe brauchen, lassen Sie es mich wissen."
     },
     {
       "english": "I get off of work at 6.",
-      "german": "Ich gehe um sechs von der Arbeit."
+      "targetLanguage": "Ich gehe um sechs von der Arbeit."
     },
     {
       "english": "I have a headache.",
-      "german": "Ich habe Kopfschmerzen."
+      "targetLanguage": "Ich habe Kopfschmerzen."
     },
     {
       "english": "I'll call you when I leave.",
-      "german": "Ich rufe dich an, wenn ich gehe."
+      "targetLanguage": "Ich rufe dich an, wenn ich gehe."
     },
     {
       "english": "I'll come back later.",
-      "german": "Ich komme später wieder."
+      "targetLanguage": "Ich komme später wieder."
     },
     {
       "english": "I'll pay.",
-      "german": "Ich bezahle."
+      "targetLanguage": "Ich bezahle."
     },
     {
       "english": "I love you.",
-      "german": "Ich liebe dich."
+      "targetLanguage": "Ich liebe dich."
     },
     {
       "english": "I'm an Brazilian.",
-      "german": "Ich bin Brasilianer."
+      "targetLanguage": "Ich bin Brasilianer."
     },
     {
       "english": "I'm cleaning my room.",
-      "german": "Ich putze mein Zimmer."
+      "targetLanguage": "Ich putze mein Zimmer."
     },
     {
       "english": "I'm good, and you?",
-      "german": "Mir geht's gut, und dir?"
+      "targetLanguage": "Mir geht's gut, und dir?"
     },
     {
       "english": "I'm happy.",
-      "german": "Ich bin glücklich."
+      "targetLanguage": "Ich bin glücklich."
     },
     {
       "english": "I'm hungry.",
-      "german": "Ich habe Hunger."
+      "targetLanguage": "Ich habe Hunger."
     },
     {
       "english": "I'm not ready yet.",
-      "german": "Ich bin noch nicht bereit."
+      "targetLanguage": "Ich bin noch nicht bereit."
     },
     {
       "english": "I'm not sure.",
-      "german": "Ich bin mir nicht sicher."
+      "targetLanguage": "Ich bin mir nicht sicher."
     },
     {
       "english": "I'm sorry, we're sold out.",
-      "german": "Tut mir leid, wir sind ausverkauft."
+      "targetLanguage": "Tut mir leid, wir sind ausverkauft."
     },
     {
       "english": "I need to go home.",
-      "german": "Ich muss nach Hause."
+      "targetLanguage": "Ich muss nach Hause."
     },
     {
       "english": "I only want a snack.",
-      "german": "Ich will nur einen Snack."
+      "targetLanguage": "Ich will nur einen Snack."
     },
     {
       "english": "Is Mr. Smith an German?",
-      "german": "Ist Mr. Smith ein Deutscher?"
+      "targetLanguage": "Ist Mr. Smith ein Deutscher?"
     },
     {
       "english": "I thought the clothes were cheaper.",
-      "german": "Ich dachte, die Kleidung wäre billiger."
+      "targetLanguage": "Ich dachte, die Kleidung wäre billiger."
     },
     {
       "english": "It's longer than 3 miles.",
-      "german": "Es ist länger als 3 Meilen."
+      "targetLanguage": "Es ist länger als 3 Meilen."
     },
     {
       "english": "I've been here for two days.",
-      "german": "Ich bin seit zwei Tagen hier."
+      "targetLanguage": "Ich bin seit zwei Tagen hier."
     },
     {
       "english": "Just a little.",
-      "german": "Nur ein bisschen."
+      "targetLanguage": "Nur ein bisschen."
     },
     {
       "english": "Just a moment.",
-      "german": "Einen Moment."
+      "targetLanguage": "Einen Moment."
     },
     {
       "english": "Let me check.",
-      "german": "Lass mich nachsehen."
+      "targetLanguage": "Lass mich nachsehen."
     },
     {
       "english": "May I speak to Mrs. Smith please?",
-      "german": "Kann ich bitte mit Mrs. Smith sprechen?"
+      "targetLanguage": "Kann ich bitte mit Mrs. Smith sprechen?"
     },
     {
       "english": "More than that.",
-      "german": "Mehr als das."
+      "targetLanguage": "Mehr als das."
     },
     {
       "english": "Never mind.",
-      "german": "Schon gut."
+      "targetLanguage": "Schon gut."
     },
     {
       "english": "Nonsense.",
-      "german": "Quatsch."
+      "targetLanguage": "Quatsch."
     },
     {
       "english": "No, thank you.",
-      "german": "Nein, danke."
+      "targetLanguage": "Nein, danke."
     },
     {
       "english": "Nothing else.",
-      "german": "Sonst nichts."
+      "targetLanguage": "Sonst nichts."
     },
     {
       "english": "Alright.",
-      "german": "In Ordnung."
+      "targetLanguage": "In Ordnung."
     },
     {
       "english": "Please fill out this form.",
-      "german": "Füllen Sie bitte dieses Formular aus."
+      "targetLanguage": "Füllen Sie bitte dieses Formular aus."
     },
     {
       "english": "Please take me to this address.",
-      "german": "Bitte bringen Sie mich zu dieser Adresse."
+      "targetLanguage": "Bitte bringen Sie mich zu dieser Adresse."
     },
     {
       "english": "Right there.",
-      "german": "Genau da."
+      "targetLanguage": "Genau da."
     },
     {
       "english": "See you later.",
-      "german": "Bis später."
+      "targetLanguage": "Bis später."
     },
     {
       "english": "See you tomorrow.",
-      "german": "Wir sehen uns morgen."
+      "targetLanguage": "Wir sehen uns morgen."
     },
     {
       "english": "Stop!",
-      "german": "Hör auf!"
+      "targetLanguage": "Hör auf!"
     },
     {
       "english": "Take a chance.",
-      "german": "Wage es."
+      "targetLanguage": "Wage es."
     },
     {
       "english": "Take it outside.",
-      "german": "Bringen Sie es raus."
+      "targetLanguage": "Bringen Sie es raus."
     },
     {
       "english": "Thank you.",
-      "german": "Vielen Dank."
+      "targetLanguage": "Vielen Dank."
     },
     {
       "english": "Thank you miss.",
-      "german": "Vielen Dank, Miss."
+      "targetLanguage": "Vielen Dank, Miss."
     },
     {
       "english": "Thank you sir.",
-      "german": "Vielen Dank, Sir."
+      "targetLanguage": "Vielen Dank, Sir."
     },
     {
       "english": "That's enough.",
-      "german": "Das reicht."
+      "targetLanguage": "Das reicht."
     },
     {
       "english": "That's alright.",
-      "german": "Das ist in Ordnung."
+      "targetLanguage": "Das ist in Ordnung."
     },
     {
       "english": "That's it.",
-      "german": "Das war's."
+      "targetLanguage": "Das war's."
     },
     {
       "english": "Exacly.",
-      "german": "Genau."
+      "targetLanguage": "Genau."
     },
     {
       "english": "That's too bad.",
-      "german": "Das ist schade."
+      "targetLanguage": "Das ist schade."
     },
     {
       "english": "That's too many.",
-      "german": "Das sind zu viele."
+      "targetLanguage": "Das sind zu viele."
     },
     {
       "english": "They're the same.",
-      "german": "Sie sind gleich."
+      "targetLanguage": "Sie sind gleich."
     },
     {
       "english": "They're very busy.",
-      "german": "Sie sind sehr beschäftigt."
+      "targetLanguage": "Sie sind sehr beschäftigt."
     },
     {
       "english": "Very good, thanks.",
-      "german": "Sehr gut, danke."
+      "targetLanguage": "Sehr gut, danke."
     },
     {
       "english": "We like it very much.",
-      "german": "Wir mögen es sehr."
+      "targetLanguage": "Wir mögen es sehr."
     },
     {
       "english": "Would you take a message please?",
-      "german": "Würden Sie bitte eine Nachricht annehmen?"
+      "targetLanguage": "Würden Sie bitte eine Nachricht annehmen?"
     },
     {
       "english": "You're very smart.",
-      "german": "Du bist sehr klug."
+      "targetLanguage": "Du bist sehr klug."
     },
     {
       "english": "Your things are all here.",
-      "german": "Deine Sachen sind alle hier."
+      "targetLanguage": "Deine Sachen sind alle hier."
     },
     {
       "english": "Be careful.",
-      "german": "Sei vorsichtig."
+      "targetLanguage": "Sei vorsichtig."
     },
     {
       "english": "Don't worry.",
-      "german": "Keine Sorge."
+      "targetLanguage": "Keine Sorge."
     },
     {
       "english": "Everyone knows it.",
-      "german": "Jeder weiß es."
+      "targetLanguage": "Jeder weiß es."
     },
     {
       "english": "Everything is ready.",
-      "german": "Alles ist bereit."
+      "targetLanguage": "Alles ist bereit."
     },
     {
       "english": "Good evening, sir.",
-      "german": "Guten Abend, Sir."
+      "targetLanguage": "Guten Abend, Sir."
     },
     {
       "english": "Good Luck.",
-      "german": "Viel Glück."
+      "targetLanguage": "Viel Glück."
     },
     {
       "english": "Good morning.",
-      "german": "Guten Morgen."
+      "targetLanguage": "Guten Morgen."
     },
     {
       "english": "Good day",
-      "german": "Guten Tag."
+      "targetLanguage": "Guten Tag."
     },
     {
       "english": "Nice to meet you",
-      "german": "Freut mich, Sie kennen zu lernen."
+      "targetLanguage": "Freut mich, Sie kennen zu lernen."
     },
     {
       "english": "Please call me.",
-      "german": "Bitte rufen Sie mich an."
+      "targetLanguage": "Bitte rufen Sie mich an."
     },
     {
       "english": "A round trip ticket.",
-      "german": "Ein Hin- und Rückfahrtsticket."
+      "targetLanguage": "Ein Hin- und Rückfahrtsticket."
     },
     {
       "english": "At what time?",
-      "german": "Zu welchem Zeitpunkt?"
+      "targetLanguage": "Zu welchem Zeitpunkt?"
     },
     {
       "english": "Can I make an appointment for next Wednesday?",
-      "german": "Kann ich einen Termin für nächsten Mittwoch vereinbaren?"
+      "targetLanguage": "Kann ich einen Termin für nächsten Mittwoch vereinbaren?"
     },
     {
       "english": "Do you know how to cook?",
-      "german": "Weißt du, wie man kocht?"
+      "targetLanguage": "Weißt du, wie man kocht?"
     },
     {
       "english": "Do you know what this says?",
-      "german": "Weißt du, was das sagt?"
+      "targetLanguage": "Weißt du, was das sagt?"
     },
     {
       "english": "Do you want me to come and pick you up?",
-      "german": "Soll ich dich abholen?"
+      "targetLanguage": "Soll ich dich abholen?"
     },
     {
       "english": "Have you arrived?",
-      "german": "Sind Sie schon da?"
+      "targetLanguage": "Sind Sie schon da?"
     },
     {
       "english": "Have you been to Boston?",
-      "german": "Waren Sie schon in Boston?"
+      "targetLanguage": "Waren Sie schon in Boston?"
     },
     {
       "english": "How do I get there?",
-      "german": "Wie komme ich dahin?"
+      "targetLanguage": "Wie komme ich dahin?"
     },
     {
       "english": "How long does it take to get to Georgia?",
-      "german": "Wie lange dauert es nach Georgien zu kommen?"
+      "targetLanguage": "Wie lange dauert es nach Georgien zu kommen?"
     },
     {
       "english": "How long is the flight?",
-      "german": "Wie lange dauert der Flug?"
+      "targetLanguage": "Wie lange dauert der Flug?"
     },
     {
       "english": "How was the movie?",
-      "german": "Wie war der Film?"
+      "targetLanguage": "Wie war der Film?"
     },
     {
       "english": "I'll take that one also.",
-      "german": "Das nehme ich auch."
+      "targetLanguage": "Das nehme ich auch."
     },
     {
       "english": "I'm coming right now.",
-      "german": "Ich komme sofort."
+      "targetLanguage": "Ich komme sofort."
     },
     {
       "english": "I'm going home in four days.",
-      "german": "Ich gehe in vier Tagen nach Hause."
+      "targetLanguage": "Ich gehe in vier Tagen nach Hause."
     },
     {
       "english": "I wish I had one.",
-      "german": "Ich wünschte, ich hätte eine."
+      "targetLanguage": "Ich wünschte, ich hätte eine."
     },
     {
       "english": "One ticket to New York please.",
-      "german": "Ein Ticket nach New York, bitte."
+      "targetLanguage": "Ein Ticket nach New York, bitte."
     },
     {
       "english": "One way or round trip?",
-      "german": "Ein Weg oder eine Rundreise?"
+      "targetLanguage": "Ein Weg oder eine Rundreise?"
     },
     {
       "english": "The plane departs at 5:30P.",
-      "german": "Das Flugzeug fährt um 5:30 Uhr ab."
+      "targetLanguage": "Das Flugzeug fährt um 5:30 Uhr ab."
     },
     {
       "english": "They arrived yesterday.",
-      "german": "Sie kamen gestern an."
+      "targetLanguage": "Sie kamen gestern an."
     },
     {
       "english": "Turn around.",
-      "german": "Umdrehen."
+      "targetLanguage": "Umdrehen."
     },
     {
       "english": "When did this happen?",
-      "german": "Wann ist das passiert?"
+      "targetLanguage": "Wann ist das passiert?"
     },
     {
       "english": "When did you arrive in Boston?",
-      "german": "Wann sind Sie in Boston angekommen?"
+      "targetLanguage": "Wann sind Sie in Boston angekommen?"
     },
     {
       "english": "When does he arrive?",
-      "german": "Wann kommt er an?"
+      "targetLanguage": "Wann kommt er an?"
     },
     {
       "english": "When do we arrive?",
-      "german": "Wann kommen wir an?"
+      "targetLanguage": "Wann kommen wir an?"
     },
     {
       "english": "When do we leave?",
-      "german": "Wann gehen wir?"
+      "targetLanguage": "Wann gehen wir?"
     },
     {
       "english": "Where can I mail this?",
-      "german": "Wo kann ich das verschicken?"
+      "targetLanguage": "Wo kann ich das verschicken?"
     },
     {
       "english": "Will you remind me?",
-      "german": "Erinnerst du mich daran?"
+      "targetLanguage": "Erinnerst du mich daran?"
     },
     {
       "english": "Are you Brazilian?",
-      "german": "Sind Sie Brasilianer?"
+      "targetLanguage": "Sind Sie Brasilianer?"
     },
     {
       "english": "Are you coming this evening?",
-      "german": "Kommst du heute Abend?"
+      "targetLanguage": "Kommst du heute Abend?"
     },
     {
       "english": "Are you sure?",
-      "german": "Bist du sicher?"
+      "targetLanguage": "Bist du sicher?"
     },
     {
       "english": "Are you working Tomorrow?",
-      "german": "Arbeitest du morgen?"
+      "targetLanguage": "Arbeitest du morgen?"
     },
     {
       "english": "Business is good.",
-      "german": "Das Geschäft ist gut."
+      "targetLanguage": "Das Geschäft ist gut."
     },
     {
       "english": "Do you feel better?",
-      "german": "Fühlst du dich besser?"
+      "targetLanguage": "Fühlst du dich besser?"
     },
     {
       "english": "Do you go to Florida often?",
-      "german": "Gehst du oft nach Florida?"
+      "targetLanguage": "Gehst du oft nach Florida?"
     },
     {
       "english": "Do you have another one?",
-      "german": "Hast du noch einen?"
+      "targetLanguage": "Hast du noch einen?"
     },
     {
       "english": "Do you need anything?",
-      "german": "Brauchst du etwas?"
+      "targetLanguage": "Brauchst du etwas?"
     },
     {
       "english": "Do you play any sports?",
-      "german": "Spielst du Sport?"
+      "targetLanguage": "Spielst du Sport?"
     },
     {
       "english": "Do you sell medicine? (store)",
-      "german": "Verkaufen Sie Medizin? (Shop)"
+      "targetLanguage": "Verkaufen Sie Medizin? (Shop)"
     },
     {
       "english": "Excuse me.",
-      "german": "Entschuldigung."
+      "targetLanguage": "Entschuldigung."
     },
     {
       "english": "Give me a call.",
-      "german": "Rufen Sie mich an."
+      "targetLanguage": "Rufen Sie mich an."
     },
     {
       "english": "Has your brother been to California?",
-      "german": "War dein Bruder schon in Kalifornien?"
+      "targetLanguage": "War dein Bruder schon in Kalifornien?"
     },
     {
       "english": "How long have you been in Germany?",
-      "german": "Wie lange sind Sie schon in Deutschland?"
+      "targetLanguage": "Wie lange sind Sie schon in Deutschland?"
     },
     {
       "english": "How long have you lived here?",
-      "german": "Wie lange leben Sie schon hier?"
+      "targetLanguage": "Wie lange leben Sie schon hier?"
     },
     {
       "english": "How many children do you have?",
-      "german": "Wie viele Kinder hast du?"
+      "targetLanguage": "Wie viele Kinder hast du?"
     },
     {
       "english": "How old are you?",
-      "german": "Wie alt bist du?"
+      "targetLanguage": "Wie alt bist du?"
     },
     {
       "english": "I bought a shirt yesterday.",
-      "german": "Ich habe gestern ein Hemd gekauft."
+      "targetLanguage": "Ich habe gestern ein Hemd gekauft."
     },
     {
       "english": "I don't feel well.",
-      "german": "Mir geht's nicht gut."
+      "targetLanguage": "Mir geht's nicht gut."
     },
     {
       "english": "I'll tell him you called.",
-      "german": "Ich sage ihm, dass du angerufen hast."
+      "targetLanguage": "Ich sage ihm, dass du angerufen hast."
     },
     {
       "english": "I'm 32.",
-      "german": "Ich bin 32."
+      "targetLanguage": "Ich bin 32."
     },
     {
       "english": "I'm 6'2.",
-      "german": "Ich bin 6'2."
+      "targetLanguage": "Ich bin 6'2."
     },
     {
       "english": "I'm fine, and you?",
-      "german": "Mir geht's gut, und dir?"
+      "targetLanguage": "Mir geht's gut, und dir?"
     },
     {
       "english": "I'm not afraid.",
-      "german": "Ich habe keine Angst."
+      "targetLanguage": "Ich habe keine Angst."
     },
     {
       "english": "I'm sick.",
-      "german": "Ich bin krank."
+      "targetLanguage": "Ich bin krank."
     },
     {
       "english": "Is your husband also from Boston?",
-      "german": "Ist Ihr Mann auch aus Boston?"
+      "targetLanguage": "Ist Ihr Mann auch aus Boston?"
     },
     {
       "english": "It's not very expensive.",
-      "german": "Das ist nicht sehr teuer."
+      "targetLanguage": "Das ist nicht sehr teuer."
     },
     {
       "english": "I've been there.",
-      "german": "Ich war dort."
+      "targetLanguage": "Ich war dort."
     },
     {
       "english": "My father is a lawyer.",
-      "german": "Mein Vater ist Anwalt."
+      "targetLanguage": "Mein Vater ist Anwalt."
     },
     {
       "english": "My grandmother passed away last year.",
-      "german": "Meine Großmutter ist letztes Jahr gestorben."
+      "targetLanguage": "Meine Großmutter ist letztes Jahr gestorben."
     },
     {
       "english": "My name is John Smith.",
-      "german": "Mein Name ist John Smith."
+      "targetLanguage": "Mein Name ist John Smith."
     },
     {
       "english": "No, this is the first time.",
-      "german": "Nein, das ist das erste Mal."
+      "targetLanguage": "Nein, das ist das erste Mal."
     },
     {
       "english": "Our children are in Brazil.",
-      "german": "Unsere Kinder sind in Brasilien."
+      "targetLanguage": "Unsere Kinder sind in Brasilien."
     },
     {
       "english": "She's an expert.",
-      "german": "Sie ist eine Expertin."
+      "targetLanguage": "Sie ist eine Expertin."
     },
     {
       "english": "This is my mother.",
-      "german": "Das ist meine Mutter."
+      "targetLanguage": "Das ist meine Mutter."
     },
     {
       "english": "This is the first time I've been here.",
-      "german": "Das ist das erste Mal, dass ich hier war."
+      "targetLanguage": "Das ist das erste Mal, dass ich hier war."
     },
     {
       "english": "We have two boys and one girl.",
-      "german": "Wir haben zwei Jungs und ein Mädchen."
+      "targetLanguage": "Wir haben zwei Jungs und ein Mädchen."
     },
     {
       "english": "What do you want to do?",
-      "german": "Was willst du tun?"
+      "targetLanguage": "Was willst du tun?"
     },
     {
       "english": "What school did you go to?",
-      "german": "Auf welche Schule bist du gegangen?"
+      "targetLanguage": "Auf welche Schule bist du gegangen?"
     },
     {
       "english": "What's your favorite movie?",
-      "german": "Was ist dein Lieblingsfilm?"
+      "targetLanguage": "Was ist dein Lieblingsfilm?"
     },
     {
       "english": "Where did you go?",
-      "german": "Wo bist du hin?"
+      "targetLanguage": "Wo bist du hin?"
     },
     {
       "english": "Where did you learn German?",
-      "german": "Wo hast du Deutsch gelernt?"
+      "targetLanguage": "Wo hast du Deutsch gelernt?"
     },
     {
       "english": "Where did you work before you worked here?",
-      "german": "Wo hast du gearbeitet, bevor du hier gearbeitet hast?"
+      "targetLanguage": "Wo hast du gearbeitet, bevor du hier gearbeitet hast?"
     },
     {
       "english": "Would you like to buy this?",
-      "german": "Möchtest du das kaufen?"
+      "targetLanguage": "Möchtest du das kaufen?"
     },
     {
       "english": "Your children are very well behaved.",
-      "german": "Ihre Kinder sind sehr gut benommen."
+      "targetLanguage": "Ihre Kinder sind sehr gut benommen."
     },
     {
       "english": "Your daughter.",
-      "german": "Ihre Tochter."
+      "targetLanguage": "Ihre Tochter."
     },
     {
       "english": "Can you do me a favor?",
-      "german": "Kannst du mir einen Gefallen tun?"
+      "targetLanguage": "Kannst du mir einen Gefallen tun?"
     },
     {
       "english": "Can you help me?",
-      "german": "Kannst du mir helfen?"
+      "targetLanguage": "Kannst du mir helfen?"
     },
     {
       "english": "Can you please say that again?",
-      "german": "Kannst du das bitte noch mal sagen?"
+      "targetLanguage": "Kannst du das bitte noch mal sagen?"
     },
     {
       "english": "Don't do that.",
-      "german": "Tu das nicht."
+      "targetLanguage": "Tu das nicht."
     },
     {
       "english": "Do you believe that?",
-      "german": "Glaubst du das?"
+      "targetLanguage": "Glaubst du das?"
     },
     {
       "english": "Do you have a pencil?",
-      "german": "Haben Sie einen Bleistift?"
+      "targetLanguage": "Haben Sie einen Bleistift?"
     },
     {
       "english": "Forget it.",
-      "german": "Vergessen Sie's."
+      "targetLanguage": "Vergessen Sie's."
     },
     {
       "english": "How do you pronounce that?",
-      "german": "Wie sprechen Sie das aus?"
+      "targetLanguage": "Wie sprechen Sie das aus?"
     },
     {
       "english": "How do you say it in English?",
-      "german": "Wie sagt man das auf Englisch?"
+      "targetLanguage": "Wie sagt man das auf Englisch?"
     },
     {
       "english": "I can't hear you clearly.",
-      "german": "Ich kann dich nicht deutlich hören."
+      "targetLanguage": "Ich kann dich nicht deutlich hören."
     },
     {
       "english": "I don't mind.",
-      "german": "Es macht mir nichts aus."
+      "targetLanguage": "Es macht mir nichts aus."
     },
     {
       "english": "I don't speak Portuguese very well.",
-      "german": "Ich spreche nicht sehr gut Portugiesisch."
+      "targetLanguage": "Ich spreche nicht sehr gut Portugiesisch."
     },
     {
       "english": "I think you have too many clothes.",
-      "german": "Ich glaube, du hast zu viele Klamotten."
+      "targetLanguage": "Ich glaube, du hast zu viele Klamotten."
     },
     {
       "english": "I trust you.",
-      "german": "Ich vertraue dir."
+      "targetLanguage": "Ich vertraue dir."
     },
     {
       "english": "I understand now.",
-      "german": "Ich verstehe jetzt."
+      "targetLanguage": "Ich verstehe jetzt."
     },
     {
       "english": "Please speak more slowly.",
-      "german": "Bitte sprechen Sie langsamer."
+      "targetLanguage": "Bitte sprechen Sie langsamer."
     },
     {
       "english": "Sorry, I didn't hear clearly.",
-      "german": "Tut mir leid, ich habe es nicht klar gehört."
+      "targetLanguage": "Tut mir leid, ich habe es nicht klar gehört."
     },
     {
       "english": "That means friend.",
-      "german": "Das bedeutet Freund."
+      "targetLanguage": "Das bedeutet Freund."
     },
     {
       "english": "What does this say?",
-      "german": "Was sagt das?"
+      "targetLanguage": "Was sagt das?"
     },
     {
       "english": "What does this word mean?",
-      "german": "Was bedeutet dieses Wort?"
+      "targetLanguage": "Was bedeutet dieses Wort?"
     },
     {
       "english": "What's the exchange rate?",
-      "german": "Wie ist der Wechselkurs?"
+      "targetLanguage": "Wie ist der Wechselkurs?"
     },
     {
       "english": "Why did you do that?",
-      "german": "Warum hast du das getan?"
+      "targetLanguage": "Warum hast du das getan?"
     }
   ]
 }

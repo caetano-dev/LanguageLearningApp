@@ -5,21 +5,23 @@ const answerDiv = document.getElementById("answerDiv");
 const next = document.getElementById("next");
 let sentences = [];
 
+let jsonFile = document.location.pathname.replace("html", "json")
+
 const getPhrase = () => {
-  fetch("./sentences.json")
+  fetch(jsonFile)
     .then((response) => response.json())
     .then((data) => {
       const randomNumber = Math.floor(Math.random() * data.phrases.length);
       const randomPhrase = data.phrases[randomNumber];
-      const germanSentence = randomPhrase.german;
+      const targetLanguageSentence = randomPhrase.targetLanguage;
       const englishSentence = randomPhrase.english;
-      sentences = { english: englishSentence, german: germanSentence };
+      sentences = { english: englishSentence, targetLanguage: targetLanguageSentence };
       displayPhrase();
     });
 };
 
 const displayPhrase = () => {
-  textSpan.innerHTML = sentences.german;
+  textSpan.innerHTML = sentences.targetLanguage;
   input.value = "";
 };
 
@@ -52,7 +54,7 @@ const checkAnswer = () => {
       answerDiv.innerText = "";
     }, 3000);
 
-    textSpan.innerHTML = sentences.german;
+    textSpan.innerHTML = sentences.targetLanguage;
   }
 };
 
