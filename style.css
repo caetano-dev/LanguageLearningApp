@@ -1,9 +1,35 @@
 html {
   background-color: #120F0E
 }
+
+.hamnav {
+  width: 100%;
+  position: sticky;
+  top: 0;
+}
+
+.hamnav label,
+#hamburger {
+  display: none;
+}
+
+#hamburger {
+  border: 1px solid black;
+}
+
+.languageContainer {
+  display: flex;
+}
+
+.languageContainer a {
+  padding: 0.5rem 0.5rem;
+  text-decoration: none;
+}
+
 .welcome{
   margin-bottom: 6rem; 
 }
+
 p,
 h1,
 h2,
@@ -11,12 +37,15 @@ span,
 #answerDiv {
   color: #ffffff;
 }
+
 #textSpan{
   font-size: 2rem;
 }
+
 #answerDiv {
   margin-top: 2rem;
 }
+
 button{
   outline: none;
   border: none;
@@ -24,34 +53,71 @@ button{
   font-size: 1rem;
   border-radius: .2rem;
 }
+
 body {
   margin: 0;
   font-family: arial, sans-serif;
 }
+
 main {
   padding: 20px;
   text-align: center;
 }
+
 .inputAndButtonsDiv{
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
+
 #input{
   margin-top: 1rem;
-  height: 2rem;
   margin-bottom: 1rem;
+  height: 2rem;
+  width: 20rem;
 }
+
 #button{
   width: 8rem;
   background-color: #F2DB46;
 }
+
 #next{
   width:5rem;
   background-color: #FC1919;
 }
+
 .wrong {
   color: red;
 }
+
 .correct {
   color: green;
 }
+@media screen and (max-width: 700px) {
+  .hamnav label {
+    display: inline-block;
+    color: white;
+    background: #a02620;
+    font-style: normal;
+    font-size: 1.2em;
+    padding: 10px;
+  }
+
+  .languageContainer a {
+    background-color: rgba(255, 255, 255, 0.151);
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+  }
+
+  .languageContainer {
+    display: none;
+  }
+
+  .hamnav input:checked ~ #languageContainer {
+    display: block;
+  }
+
+}
+
