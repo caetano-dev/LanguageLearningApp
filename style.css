@@ -1,5 +1,5 @@
 html {
-  background-color: #120F0E
+  background-color: #83694e
 }
 
 .hamnav {
@@ -48,10 +48,11 @@ span,
 
 button{
   outline: none;
-  border: none;
   height: 2rem;
   font-size: 1rem;
   border-radius: .2rem;
+  cursor: pointer;
+  transition: .3s;
 }
 
 body {
@@ -72,6 +73,7 @@ main {
 }
 
 #input{
+  border-radius: .2rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
   height: 2rem;
@@ -81,10 +83,20 @@ main {
 #button{
   width: 8rem;
   background-color: #008000;
+  border:2px solid #00ba00;
+}
+
+#button:hover{
+  background-color: #00ba00;
 }
 
 #next{
-  background-color: #b20000;
+  background-color: #9e0000;
+  border:2px solid #ff0000;
+}
+
+#next:hover{
+ background-color:  #ff0000;
 }
 
 .wrong {
@@ -94,6 +106,7 @@ main {
 .correct {
   color: green;
 }
+
 @media screen and (max-width: 700px) {
   .hamnav label {
     display: inline-block;
