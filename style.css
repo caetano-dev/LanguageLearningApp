@@ -68,6 +68,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 #input{
@@ -79,12 +80,11 @@ main {
 
 #button{
   width: 8rem;
-  background-color: #F2DB46;
+  background-color: #008000;
 }
 
 #next{
-  width:5rem;
-  background-color: #FC1919;
+  background-color: #b20000;
 }
 
 .wrong {
@@ -98,10 +98,11 @@ main {
   .hamnav label {
     display: inline-block;
     color: white;
-    background: #a02620;
+    background: #b20000;
     font-style: normal;
     font-size: 1.2em;
     padding: 10px;
+    width: 1rem;
   }
 
   .languageContainer a {

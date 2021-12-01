@@ -34,7 +34,7 @@ const checkAnswer = () => {
   if (userInputLowerCase.slice(0,-1) === phraseToCheck.slice(0,-1)) {
     textSpan.classList.add("correct");
     textSpan.innerText = "Correct!";
-    answerDiv.innerText = "Move to the next one.";
+    answerDiv.innerText = "Move to the next one!";
 
     setTimeout(() => {
       textSpan.classList.remove("correct");
